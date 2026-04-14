@@ -4,6 +4,6 @@
 
 Ссылка на проект https://siasma.lv/
 
-Stack: Golang, Go, Kafka, Docker, CI/CD, Grafana, Prometheus, Git, PostgreSQL, SQL, NoSQL, MongoDB, Clickhouse
+Stack: Golang, Go, Kafka, Docker, CI/CD, Grafana, Prometheus, Git, PostgreSQL, SQL, NoSQL, MongoDB, Clickhouse.
 
-связаться со мной: https://t.me/pr0fit97
+Связаться со мной: https://t.me/pr0fit97
